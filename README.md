@@ -1,6 +1,6 @@
 # LinkedIn-Clone
  
-### This is a clone of linkedin built with _React, Redux, Firebase, and MaterialUI_. Built from a tutorial by Sonny Sangha. ###
+### This is a clone of linkedin built with _React, Redux, Firebase, and MaterialUI_. ###
 
 ## Features ##
 
